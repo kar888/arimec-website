@@ -1,4 +1,0 @@
-# Canonicalise www → apex (301)
-https://www.arimec.com/*  https://arimec.com/:splat  301!
-http://www.arimec.com/*   https://arimec.com/:splat  301!
-http://arimec.com/*       https://arimec.com/:splat  301!
